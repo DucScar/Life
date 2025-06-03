@@ -2,16 +2,71 @@
   "1": {
     "day": "Ngày 1",
     "title": "Bát nước của lòng từ",
-    "story": "Một người già nghèo khổ luôn múc một bát nước để đặt trước cổng chùa...",
-    "quote": "Không có con đường dẫn đến hạnh phúc. Hạnh phúc chính là con đường. — Thích Nhất Hạnh",
-    "meditation": "Nhắm mắt. Hít sâu. Thở ra nhẹ nhàng. Hãy nghĩ đến một người khiến bạn cảm thấy yêu thương..."
+    "story": "Một người già nghèo luôn đặt một bát nước trước chùa cho người qua đường. Một ngày, một vị sư dừng lại, uống bát nước và mỉm cười. Người già bật khóc, vì lòng tốt của mình lần đầu được đón nhận.",
+    "quote": "“Không có con đường dẫn đến hạnh phúc. Hạnh phúc chính là con đường.” — Thích Nhất Hạnh",
+    "meditation": "Nhắm mắt. Nghĩ đến ai đó bạn yêu thương. Thầm nhủ: “Cầu cho bạn ấy được an lành. Cầu cho tôi cũng được an lành.”"
   },
   "2": {
     "day": "Ngày 2",
-    "title": "Chiếc áo rách và lòng thương",
-    "story": "Một cậu bé rách rưới được nhà sư tặng áo ấm trong mùa đông lạnh giá...",
-    "quote": "Tình thương là điều kỳ diệu nhất ta có thể trao đi mà không bị mất đi.",
-    "meditation": "Hít vào, thở ra chậm rãi. Gửi một ý nghĩ tốt lành đến một người bạn từng mâu thuẫn."
+    "title": "Bóng cây và người ăn xin",
+    "story": "Người ăn xin trú dưới bóng cây mát. Khi bị xua đuổi, ông nói: 'Tôi chỉ mượn bóng mát, không lấy gì cả'. Cây vẫn đứng yên, che nắng như chưa từng nghe.",
+    "quote": "“Từ bi là ngôn ngữ mà người mù có thể thấy và người điếc có thể nghe.” — Mark Twain",
+    "meditation": "Hãy nghĩ đến người khiến bạn phiền lòng. Thầm nhủ: “Cầu cho bạn ấy được bình an.”"
+  },
+  "3": {
+    "day": "Ngày 3",
+    "title": "Đóa sen trong bùn",
+    "story": "Một cô gái bị chế giễu vì nghèo khó. Cô chỉ im lặng chăm sóc vườn sen mỗi ngày. Cuối mùa, ai cũng đến ngắm hoa, không còn ai nhớ đến lời chê cũ.",
+    "quote": "“Hoa sen mọc trong bùn nhưng không nhiễm mùi bùn.” — Kinh Pháp Cú",
+    "meditation": "Hít sâu. Thở ra. Nhận biết sự bình yên đang có mặt trong bạn, bất kể hoàn cảnh."
+  },
+  "4": {
+    "day": "Ngày 4",
+    "title": "Con mèo và vị sư",
+    "story": "Một con mèo hoang cứ đến chùa ăn vụng. Các sư muốn đuổi, nhưng vị trụ trì nói: 'Chia phần cho nó, đó cũng là một chúng sinh'.",
+    "quote": "“Một hành động nhỏ của lòng từ có thể làm dịu một ngày đầy bão tố.” — Aesop",
+    "meditation": "Tưởng tượng trước mặt bạn là một sinh vật nhỏ cần được che chở. Thầm nhủ: “Cầu cho bạn ấy không còn sợ hãi.”"
+  },
+  "5": {
+    "day": "Ngày 5",
+    "title": "Nụ cười của người bán hàng rong",
+    "story": "Dù trời nắng gắt, bà bán hàng rong luôn mỉm cười với người qua đường. Một sinh viên hỏi lý do, bà đáp: 'Cười để lòng mình mát'.",
+    "quote": "“Nếu bạn không thể tìm thấy ánh nắng, hãy trở thành mặt trời.” — Anon",
+    "meditation": "Mỉm cười nhẹ. Cảm nhận cơ mặt mềm ra. Hít vào, thở ra với nụ cười ấy."
+  },
+  "6": {
+    "day": "Ngày 6",
+    "title": "Chiếc áo choàng đỏ",
+    "story": "Một người lạ cho cụ già vô gia cư chiếc áo choàng ấm. Khi được hỏi tên, người ấy chỉ đáp: 'Một người từng lạnh như cụ'.",
+    "quote": "“Tình thương là món quà duy nhất bạn có thể cho mãi mà không sợ cạn kiệt.” — Khuyết danh",
+    "meditation": "Hãy nhớ đến ai đó đã từng giúp đỡ bạn. Thầm biết ơn. Thầm chúc phúc cho họ."
+  },
+  "7": {
+    "day": "Ngày 7",
+    "title": "Người gánh nước và hai chiếc bình",
+    "story": "Một bình bị rò nước, mỗi ngày đều tự ti. Nhưng nhờ nó, cả đoạn đường mọc đầy hoa. Lòng từ cũng như vậy – âm thầm nuôi dưỡng đời.",
+    "quote": "“Từ bi là biết chấp nhận cả những gì không hoàn hảo.” — Ajahn Brahm",
+    "meditation": "Nghĩ đến một khuyết điểm của bản thân. Thay vì phán xét, thầm nói: “Tôi vẫn xứng đáng được thương.”"
+  },
+  "8": {
+    "day": "Ngày 8",
+    "title": "Người mù băng đường",
+    "story": "Một người mù định băng qua đường. Một em bé chạy đến nắm tay dẫn đường. Không ai yêu cầu, không ai quay phim. Chỉ có từ tâm tự nhiên trỗi dậy.",
+    "quote": "“Lòng tốt thực sự là khi bạn làm điều tử tế mà không mong ai nhìn thấy.” — Đức Đạt Lai Lạt Ma",
+    "meditation": "Thở vào. Thở ra. Hãy để lòng tốt đến từ sự tự nhiên, không gượng ép."
+  },
+  "9": {
+    "day": "Ngày 9",
+    "title": "Người con trở về",
+    "story": "Người con bỏ nhà đi biệt tích 10 năm, cha mẹ vẫn thắp đèn cửa mỗi đêm. Một ngày, người ấy quay về, thấy ngọn đèn vẫn còn đó.",
+    "quote": "“Lòng từ không bao giờ tắt, nó chỉ chờ được nhận ra.” — Jack Kornfield",
+    "meditation": "Tưởng tượng một ngọn đèn trong tim bạn, luôn sáng dù gió giông. Hít thở với ánh sáng ấy."
+  },
+  "10": {
+    "day": "Ngày 10",
+    "title": "Vị sư và tên trộm",
+    "story": "Một tên trộm đột nhập chùa, thấy vị sư đang ngồi thiền. Sư nói: 'Con cần gì thì cứ lấy. Nhưng đừng quên mang theo sự tỉnh thức'. Tên trộm bật khóc.",
+    "quote": "“Lòng từ không phán xét. Nó chỉ chiếu sáng.” — Thích Nhất Hạnh",
+    "meditation": "Nhắm mắt. Nghĩ đến ai đó đã làm bạn tổn thương. Thầm nói: “Tôi buông bỏ oán trách. Tôi chọn lòng từ.”"
   }
 }
-
