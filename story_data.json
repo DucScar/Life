@@ -68,7 +68,7 @@
     "story": "Một tên trộm đột nhập chùa, thấy vị sư đang ngồi thiền. Sư nói: 'Con cần gì thì cứ lấy. Nhưng đừng quên mang theo sự tỉnh thức'. Tên trộm bật khóc.",
     "quote": "“Lòng từ bi không phán xét. Nó chỉ chiếu sáng.” — Thích Nhất Hạnh",
     "meditation": "Nhắm mắt. Nghĩ đến ai đó đã làm bạn tổn thương. Thầm nói: “Tôi buông bỏ oán trách. Tôi chọn lòng từ bi.”"
-  }
+  },
   "11": {
     "day": "Ngày 11",
     "title": "Một cái ôm đổi thay",
@@ -139,4 +139,37 @@
     "quote": "Sống giữa đời mà không bị đời làm đục là trí tuệ.",
     "meditation": "Hít vào — “Tôi nhận biết mọi cảm xúc.” Thở ra — “Tôi không bị chúng cuốn đi.”"
   }, 
+  "21": {
+    "day": "Ngày 21",
+    "title": "Cây cầu và dòng sông",
+    "story": "Một người muốn băng qua sông nhưng không có cầu. Ông ngồi xuống, nghĩ: “Nếu tôi xây cầu, người khác cũng sẽ qua lại.” Ông bắt đầu gom đá, và cuối cùng, cây cầu được dựng lên.",
+    "quote": "Hành động nhỏ có thể tạo nên sự khác biệt lớn.",
+    "meditation": "Hãy nghĩ đến một việc nhỏ bạn có thể làm hôm nay để giúp đỡ người khác. Hít vào — “Tôi sẽ làm điều đó.” Thở ra — “Tôi cảm thấy hạnh phúc.”"
+  },
+  "22": {
+    "day": "Ngày 22",
+    "title": "Câu chuyện của viên đá",
+    "story": "Một viên đá nằm trên đường, bị người ta dẫm đạp. Nhưng một ngày, có người nhặt nó lên, lau sạch bụi bẩn và đặt nó vào một bức tranh. Viên đá trở thành một phần của nghệ thuật.",
+    "quote": "Mỗi người đều có giá trị, chỉ cần ai đó nhận ra.",
+    "meditation": "Hãy nghĩ đến một khía cạnh tốt đẹp của bản thân mà bạn chưa từng công nhận. Hít vào — “Tôi xứng đáng được yêu thương.” Thở ra — “Tôi trân trọng chính mình.”"
+  },
+  "23": {
+    "day": "Ngày 23",
+    "title": "Cánh diều và gió",
+    "story": "Một cậu bé thả diều, nhưng gió quá mạnh làm diều bay mất. Cậu buồn bã, nhưng rồi nghĩ: “Gió giúp diều bay cao hơn.” Cậu học cách chấp nhận và yêu thương gió.",
+    "quote": "Khó khăn là cơ hội để ta trưởng thành.",
+    "meditation": "Hít vào — “Tôi chấp nhận mọi thử thách.” Thở ra — “Tôi sẽ vượt qua chúng.”"
+  },
+  "24": {
+    "day": "Ngày 24",
+    "title": "Ngọn nến và bóng tối",
+    "story": "Một ngọn nến nhỏ trong phòng tối. Nó không sợ bóng tối, vì nó biết chỉ cần cháy sáng, bóng tối sẽ tự tan biến.",
+    "quote": "Ánh sáng của bạn có thể xua tan bóng tối của người khác.",
+    "meditation": "Hãy tưởng tượng bạn là ngọn nến. Hít vào — “Tôi tỏa sáng.” Thở ra — “Tôi mang lại ánh sáng cho người khác.”"
+  },
+  "25": {
+    "day": "Ngày 25",
+    "title": "Câu chuyện của chiếc lá",
+    "story": "Một chiếc lá"
+  }
 }
