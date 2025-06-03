@@ -44,7 +44,7 @@
   "7": {
     "day": "Ngày 7",
     "title": "Người gánh nước và hai chiếc bình",
-    "story": "Một bình bị rò nước, mỗi ngày đều tự ti. Nhưng nhờ nó, cả đoạn đường mọc đầy hoa. Lòng từ cũng như vậy – âm thầm nuôi dưỡng đời.",
+    "story": "Một bình bị rò nước, mỗi ngày đều tự ti. Nhưng nhờ nó, cả đoạn đường mọc đầy hoa. Lòng từ bi cũng như vậy – âm thầm nuôi dưỡng đời.",
     "quote": "“Từ bi là biết chấp nhận cả những gì không hoàn hảo.” — Ajahn Brahm",
     "meditation": "Nghĩ đến một khuyết điểm của bản thân. Thay vì phán xét, thầm nói: “Tôi vẫn xứng đáng được thương.”"
   },
@@ -59,14 +59,84 @@
     "day": "Ngày 9",
     "title": "Người con trở về",
     "story": "Người con bỏ nhà đi biệt tích 10 năm, cha mẹ vẫn thắp đèn cửa mỗi đêm. Một ngày, người ấy quay về, thấy ngọn đèn vẫn còn đó.",
-    "quote": "“Lòng từ không bao giờ tắt, nó chỉ chờ được nhận ra.” — Jack Kornfield",
+    "quote": "“Lòng từ bi không bao giờ tắt, nó chỉ chờ được nhận ra.” — Jack Kornfield",
     "meditation": "Tưởng tượng một ngọn đèn trong tim bạn, luôn sáng dù gió giông. Hít thở với ánh sáng ấy."
   },
   "10": {
     "day": "Ngày 10",
     "title": "Vị sư và tên trộm",
     "story": "Một tên trộm đột nhập chùa, thấy vị sư đang ngồi thiền. Sư nói: 'Con cần gì thì cứ lấy. Nhưng đừng quên mang theo sự tỉnh thức'. Tên trộm bật khóc.",
-    "quote": "“Lòng từ không phán xét. Nó chỉ chiếu sáng.” — Thích Nhất Hạnh",
-    "meditation": "Nhắm mắt. Nghĩ đến ai đó đã làm bạn tổn thương. Thầm nói: “Tôi buông bỏ oán trách. Tôi chọn lòng từ.”"
+    "quote": "“Lòng từ bi không phán xét. Nó chỉ chiếu sáng.” — Thích Nhất Hạnh",
+    "meditation": "Nhắm mắt. Nghĩ đến ai đó đã làm bạn tổn thương. Thầm nói: “Tôi buông bỏ oán trách. Tôi chọn lòng từ bi.”"
   }
+  "11": {
+    "day": "Ngày 11",
+    "title": "Một cái ôm đổi thay",
+    "story": "Một đứa trẻ mồ côi khóc bên cổng chùa. Một vị sư già lặng lẽ đến, không nói lời nào, chỉ nhẹ nhàng ôm lấy em. Cái ôm đó đã ở lại trong tim em suốt đời, là lý do em lớn lên và quay trở lại giúp đỡ người khác.",
+    "quote": "Hành động nhỏ với tâm từ bi có thể thay đổi cả một đời người.",
+    "meditation": "Hít sâu. Hãy tưởng tượng bạn đang ôm lấy một đứa trẻ đang buồn. Thầm nhủ: “Cầu cho con được an lành. Cầu cho mọi trẻ em đều được yêu thương.”"
+  },
+  "12": {
+    "day": "Ngày 12",
+    "title": "Tiếng chuông giữa lòng phố",
+    "story": "Một người đàn ông căng thẳng trong xe tắc đường nghe thấy tiếng chuông chùa vang nhẹ. Ông dừng lại, hạ kính xuống, nhắm mắt, và mỉm cười. Chỉ vài giây, nhưng như gột sạch mọi bực dọc.",
+    "quote": "Một hơi thở ý thức có thể thay đổi cả một ngày. — Thích Nhất Hạnh",
+    "meditation": "Dừng lại. Hít một hơi dài. Khi thở ra, buông bỏ một điều khiến bạn căng thẳng."
+  },
+  "13": {
+    "day": "Ngày 13",
+    "title": "Đôi dép để lại trước chùa",
+    "story": "Một du khách đến chùa, thấy bảng “xin để dép ngoài cổng”. Anh cởi dép, thấy nhẹ hơn. Khi ra về, anh nhận ra: cái dép không chỉ là dép — đó là những phiền não anh đã để lại ngoài cổng.",
+    "quote": "Buông bỏ không phải là mất mát, mà là giải thoát.",
+    "meditation": "Hãy tưởng tượng bạn đặt một gánh nặng xuống đất. Hít sâu. Thở ra và buông."
+  },
+  "14": {
+    "day": "Ngày 14",
+    "title": "Một bát cháo nhân duyên",
+    "story": "Một cụ bà lặng lẽ nấu cháo phát miễn phí mỗi sáng. Có người hỏi: “Bà phát thế, ai trả công cho bà?” Bà cười: “Tôi trả ơn đời, đời trả lại bằng nụ cười của họ.”",
+    "quote": "Cho đi là còn mãi.",
+    "meditation": "Nhớ lại một người từng giúp bạn. Thầm nói: “Cảm ơn bạn. Cầu cho bạn an lành.”"
+  },
+  "15": {
+    "day": "Ngày 15",
+    "title": "Người ăn xin và nhà sư",
+    "story": "Người ăn xin trách: “Ngài có thể giúp tôi, sao không làm?” Nhà sư đáp: “Tôi không giúp vì bạn nghèo, mà vì tôi thấy bạn đang khổ.” Tình thương không nhìn vào túi, mà nhìn vào tim.",
+    "quote": "Từ bi là thấy nỗi khổ người khác như nỗi khổ của mình.",
+    "meditation": "Hít vào — nghĩ về một người đang khổ. Thở ra — thầm nguyện: “Cầu cho bạn hết khổ.”"
+  },
+  "16": {
+    "day": "Ngày 16",
+    "title": "Lá thư không người nhận",
+    "story": "Một cô gái viết thư xin lỗi người cha đã mất, rồi đốt nó trong một buổi lễ phóng sinh. Gió cuốn tờ thư bay lên. Lòng cô nhẹ đi như chưa từng.",
+    "quote": "Tha thứ là món quà bạn tặng cho chính mình.",
+    "meditation": "Nghĩ đến một lỗi lầm bạn từng mắc. Nhẹ nhàng nói: “Tôi tha thứ cho chính mình.”"
+  },
+  "17": {
+    "day": "Ngày 17",
+    "title": "Một lần rửa bát bằng chánh niệm",
+    "story": "Một cậu bé rửa bát mà nghĩ đến chơi game. Sư phụ bảo: “Nếu con rửa bát mà nghĩ đến game, con sẽ rửa game suốt đời. Nếu rửa bát bằng tâm tỉnh thức, đó là thiền.”",
+    "quote": "Làm một việc với trọn vẹn tâm ý là thực hành thiền.",
+    "meditation": "Lúc làm việc hôm nay, thử làm thật chậm và chú tâm. Cảm nhận từng cử chỉ."
+  },
+  "18": {
+    "day": "Ngày 18",
+    "title": "Món quà không được nhận",
+    "story": "Có người xúc phạm Đức Phật. Ngài hỏi: “Nếu ai đó mang quà đến, người kia không nhận, thì món quà thuộc về ai?”",
+    "quote": "Sân hận là món quà người khác đưa, bạn có thể chọn không nhận.",
+    "meditation": "Nhớ lại một lần bạn bị xúc phạm. Hít vào — “Tôi không nhận món quà ấy”. Thở ra — “Tôi giữ lòng bình an.”"
+  },
+  "19": {
+    "day": "Ngày 19",
+    "title": "Lồng chim mở cửa",
+    "story": "Một người mua chim cảnh về nuôi. Một hôm, ông mở cửa lồng và nói: “Ta thương mày. Tự do mới là điều tốt đẹp.” Ông nhìn chim bay, mà nước mắt hạnh phúc lăn dài.",
+    "quote": "Yêu thương là buông tay, không giữ chặt.",
+    "meditation": "Nghĩ về một điều bạn đang cố kiểm soát. Hít sâu. Thở ra: “Tôi tin tưởng và buông.”"
+  },
+  "20": {
+    "day": "Ngày 20",
+    "title": "Giọt nước trên lá sen",
+    "story": "Một học trò hỏi sư phụ: “Con làm thế nào để không bị khổ đau làm ướt mình?” Thầy chỉ vào lá sen — giọt nước tròn, trong, không thấm vào đâu cả.",
+    "quote": "Sống giữa đời mà không bị đời làm đục là trí tuệ.",
+    "meditation": "Hít vào — “Tôi nhận biết mọi cảm xúc.” Thở ra — “Tôi không bị chúng cuốn đi.”"
+  } 
 }
