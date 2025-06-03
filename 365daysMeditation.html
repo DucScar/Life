@@ -50,23 +50,48 @@
   <div class="container">
     <h1>365 Ngày Thiền Từ Bi</h1>
     <div class="section">
-      <div class="day-number">Ngày 1</div>
-      <h2>Câu chuyện: Bát nước của lòng từ</h2>
-      <p>Một người già nghèo khổ luôn múc một bát nước để đặt trước cổng chùa, với hy vọng ai đó khát sẽ uống. Một ngày, một vị sư đi ngang qua, uống nước ấy và mỉm cười từ bi. Người già bật khóc vì lần đầu thấy lòng tốt của mình được đón nhận. Đó là thiền — sự hiện diện và tử tế vô điều kiện.</p>
+      <div id="day-number" class="day-number"></div>
+      <h2 id="title"></h2>
+      <p id="story"></p>
     </div>
     <div class="section">
       <h3>Trích dẫn:</h3>
-      <blockquote>
-        “Không có con đường dẫn đến hạnh phúc. Hạnh phúc chính là con đường.” — Thích Nhất Hạnh
-      </blockquote>
+      <blockquote id="quote"></blockquote>
     </div>
     <div class="section">
       <h3>Thiền từ bi (1 phút):</h3>
-      <p>Nhắm mắt. Hít sâu. Thở ra nhẹ nhàng. Hãy nghĩ đến một người khiến bạn cảm thấy yêu thương. Thầm nhủ: “Cầu cho bạn ấy được an lành. Cầu cho tôi cũng được an lành.”</p>
+      <p id="meditation"></p>
     </div>
     <div class="footer">
       © 2025 - 365 ngày Thiền Từ Bi — Scar tặng bạn mỗi ngày một ánh sáng nhẹ nhàng.
     </div>
   </div>
+
+  <script>
+    // Lấy ngày hiện tại trong năm
+    const today = new Date();
+    const dayOfYear = Math.floor((today - new Date(today.getFullYear(), 0, 0)) / 86400000);
+
+    fetch("story_data.json")
+      .then(response => response.json())
+      .then(data => {
+        const entry = data[dayOfYear] || {
+          day: `Ngày ${dayOfYear}`,
+          title: "(Chưa có nội dung)",
+          story: "Hãy quay lại vào ngày mai để nhận được nguồn cảm hứng mới.",
+          quote: "",
+          meditation: ""
+        };
+
+        document.getElementById("day-number").textContent = entry.day;
+        document.getElementById("title").textContent = "Câu chuyện: " + entry.title;
+        document.getElementById("story").textContent = entry.story;
+        document.getElementById("quote").textContent = entry.quote;
+        document.getElementById("meditation").textContent = entry.meditation;
+      })
+      .catch(error => {
+        document.getElementById("story").textContent = "Không thể tải nội dung: " + error;
+      });
+  </script>
 </body>
 </html>
